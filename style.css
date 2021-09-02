@@ -1,25 +1,26 @@
+html, body {
+  font-family: "Times New Roman";
+  margin: 0;
+}
+
 h1 {
-  color: #e5b2e8;
-  background-color: #994422;
-  font-family: 'Allison', cursive;
+  font-size: 48px;
 }
 
-#first{
-  background-color: #ee7788;
-  margin: 20px;
-  padding: 5px;
+.bubble {
+  background-color: #FFEE00;
 }
 
-.middle {
-  text-align: center;
-  color: #dddddd;
-  background-color: #443322;
-  margin: 50px;
-  padding: 10px;
+.touch {
+  background-color: #FFEE00;
 }
 
-#second{
-  background-color: #998899;
-  margin: 5px;
-  padding: 20px;
+.vase {
+  background-color: #FFEE00;
+}
+
+div {
+  padding-left: 30px;
+  height: 100%;
+  width: 100%;
 }
