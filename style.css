@@ -1,0 +1,25 @@
+h1 {
+  color: #e5b2e8;
+  background-color: #994422;
+  font-family: 'Allison', cursive;
+}
+
+#first{
+  background-color: #ee7788;
+  margin: 20px;
+  padding: 5px;
+}
+
+.middle {
+  text-align: center;
+  color: #dddddd;
+  background-color: #443322;
+  margin: 50px;
+  padding: 10px;
+}
+
+#second{
+  background-color: #998899;
+  margin: 5px;
+  padding: 20px;
+}
