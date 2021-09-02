@@ -3,6 +3,11 @@ h1 {
   padding-left: 30px;
 }
 
+h2 {
+  font-size: 40px;
+  padding-left: 30px;
+}
+
 html, body {
   font-family: "Times New Roman";
   margin: 0;
@@ -10,14 +15,17 @@ html, body {
 
 .bubble {
   background-color: #e6e6fa;
+  font-size: 30px;
 }
 
 .touch {
   background-color: #b0c4de;
+  font-size: 30px;
 }
 
 .vase {
   background-color: #778899;
+  font-size: 30px;
 }
 
 div {
